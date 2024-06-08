@@ -1,0 +1,17 @@
+/* belajar font styling */
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+}
+
+h2{
+    font-style: italic;
+    font-size: 75px;
+    font-variant: small-caps;
+}
+
+p{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}

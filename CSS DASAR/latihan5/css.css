@@ -1,0 +1,35 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1,h2{
+    color: red;
+}
+
+ul li a{
+    color: purple;
+}
+
+ol li a{
+    color: orange;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* untuk memanggil id "#" */
+#p1{
+    color: purple;
+}
+
+/* untuk memanggil class "." */
+.p2{
+    color: orange;
+}
+.cetak-tebal{
+    font-weight: bold;
+}
+p.cetak-tebal{
+    font-size: 30px;
+}

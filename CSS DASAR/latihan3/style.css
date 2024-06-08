@@ -1,0 +1,25 @@
+/* Belajar mengenai teks styling */
+h1{
+    font-size: 100px;
+    color: hotpink;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+h2{
+    text-align: right;
+    text-transform: lowercase;
+    word-spacing: 15px;
+    letter-spacing: 5px;
+}
+
+p{
+    text-transform: capitalize;
+    text-indent: 100px;
+    text-align: justify;
+}
+
+a{
+    font-size: 250%;
+    text-decoration: none;
+}
